@@ -12,4 +12,5 @@
     roslaunch niryo_moveit part_3.launch
     ```
 4. Execution of the tasks
-    4.1 blabla
+    - hand tracking
+    - finger counting
